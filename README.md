@@ -1,6 +1,8 @@
 Original work by: Julian H. https://github.com/ewilded/shelling
 
 # SHELLING - a comprehensive OS command injection payload generator
+# Modified by MISTEAM: enabled command field in activescan mode. So U can change command from hardcoded nslookup to any (ex: dig, n^s^l^o^O^kuP)
+
 # An OLDER version is currently available in the Burp App Store as Command Injection Attacker. The current version (available here) has already been submitted to the Bapp Store and should be released there soon.
 
 ![Logo](logo.png?raw=true)
